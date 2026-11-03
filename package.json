@@ -1,6 +1,6 @@
 {
   "name": "scarship-voxel-sandbox",
-  "version": "2.0.0",
+  "version": "3.0.0",
   "private": true,
   "description": "原创浏览器体素沙盒，支持创造、生存、合成与本地存档",
   "type": "module",
